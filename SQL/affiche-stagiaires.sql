@@ -1,0 +1,1 @@
+USE BDD_DEMO SELECT * FROM Stagiaires;
