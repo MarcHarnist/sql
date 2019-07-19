@@ -1,0 +1,1 @@
+ALTER TABLE grilletarifs2 ADD CONSTRAINT KP_codeTarif  PRIMARY KEY (codeTarif);

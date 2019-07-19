@@ -1,0 +1,1 @@
+select * from clients where year(CLIENTS.date_naissance) between 1970 and 1980;

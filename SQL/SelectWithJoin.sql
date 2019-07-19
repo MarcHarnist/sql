@@ -1,0 +1,1 @@
+select * from clients as c inner join fiches as f on /* on=condition */ c.noCLi = f.noCli   where f.datePaye is null order by f.noCli

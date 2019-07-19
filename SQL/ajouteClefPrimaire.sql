@@ -1,0 +1,2 @@
+USE Marc
+ALTER TABLE Marc.dbo.oiseaux ADD CONSTRAINT PK_nom PRIMARY KEY(nom);

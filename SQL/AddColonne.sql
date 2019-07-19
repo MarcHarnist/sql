@@ -1,0 +1,1 @@
+ALTER TABLE dbo.clients ADD id BIGINT;

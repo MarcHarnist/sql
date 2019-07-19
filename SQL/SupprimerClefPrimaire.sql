@@ -1,0 +1,1 @@
+ALTER TABLE dbo.articles DROP CONSTRAINT PK_Refart_articles;

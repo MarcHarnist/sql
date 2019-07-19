@@ -1,0 +1,1 @@
+ ALTER TABLE grilletarifs2 ADD CONSTRAINT FK_grilletarifs FOREIGN KEY (codeCate) REFERENCES categories (codeCate);

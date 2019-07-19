@@ -1,0 +1,1 @@
+SELECT c.nom "Nom" /* Personnalise le titre de la colonne */, c.prenom "Prénom", c.ville "Ville du client" FROM VideoLoc.dbo.CLIENTS AS c /* c est mon alias (AS) */;
